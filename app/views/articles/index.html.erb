@@ -1,0 +1,31 @@
+<!-- DEVELOPER:
+  MEHMET KIZILTAS
+-->
+
+<!-- WARNING:
+  Authentication codes are encoded in blog\app\controllers\articles controller.rb and blog\app\controllers\articles controller.rb.
+-->
+
+
+<!-- INFO:
+  authentication username: mehmet
+  authentication username: kiziltas
+-->
+
+<div class="container" align="center">
+	<strong>Articles</strong>
+	<ul>
+  		<% @articles.each do |article| %>
+    	
+     		<%= link_to article.title, article %>
+
+     		<br/>
+    	
+    		<%= article.body %>
+
+    		<br/>
+  		<% end %>
+	</ul>
+	
+</div>
+

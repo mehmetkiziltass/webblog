@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+(EN) Blog site that I coded with Ruby language using Ruby On Rails framework...
+
+(TR) Ruby On Rails çerçevesini kullanarak Ruby dili ile kodladığım blog sitesi...
 
 Things you may want to cover:
 

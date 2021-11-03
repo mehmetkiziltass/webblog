@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby 2.6.6
 
-* System dependencies
+* System dependencies: sqlite3 database
 
 * Configuration
 

@@ -9,16 +9,8 @@ Things you may want to cover:
 
 * System dependencies: sqlite3 database
 
-* Configuration
+* Framework: Ruby On Rails
 
-* Database creation
+* Ruby On Rails version Rails 6.1.4.1
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Authentication user: mehmet pass: kiziltas
